@@ -1,0 +1,28 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"arsd-official": "10.9.10",
+		"bindbc-freetype": "1.0.5",
+		"bindbc-loader": "1.0.3",
+		"bindbc-opengl": "1.0.5",
+		"bindbc-sdl": "1.0.1",
+		"cairod": "0.0.1-alpha.3+1.10.2",
+		"derelict-ft": "1.0.2",
+		"derelict-gl3": "1.0.24",
+		"derelict-util": "2.1.0",
+		"dfl2": "1.0.7",
+		"dlangui": "~master",
+		"dlib": "1.2.0",
+		"dsfml": "2.1.1",
+		"glx-d": "1.1.0",
+		"icontheme": "1.2.3",
+		"imaged": "1.0.2",
+		"imageformats": "7.0.2",
+		"inilike": "1.2.2",
+		"isfreedesktop": "0.1.1",
+		"undead": "1.0.10",
+		"windows-headers": "1.0.5",
+		"x11": "1.0.21",
+		"xdgpaths": "0.2.5"
+	}
+}
